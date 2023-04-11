@@ -1,0 +1,7 @@
+Q: Find the hidden key from a GIF file
+
+Command:
+   unzip Challange2.gif (results in a file called key.txt)
+   cat key.txt
+key:
+  4994905d3464eb4e28cb9ab348efd97055cc54ec
